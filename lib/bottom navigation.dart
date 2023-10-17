@@ -16,7 +16,7 @@ class bottomnavigation extends StatefulWidget {
 class _bottomnavigationState extends State<bottomnavigation> {
   int currentpage =0;
   final List <Widget> suma =[
-homie(),
+homeimage(),
 search(),
 comingsoon(),
 downloads(),
